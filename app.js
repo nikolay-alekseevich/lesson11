@@ -23,6 +23,10 @@ app.controller('myCtrl', ['$scope', function($scope) {
 		$scope.priceOrder = order;
 	}
 
+	
+	
+	
+	
 	$scope.sortReverse  = false;
 
 
